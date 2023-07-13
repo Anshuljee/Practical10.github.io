@@ -1,1 +1,1 @@
-# Practical1.github.io
+# Practical2.github.io
